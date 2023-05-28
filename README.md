@@ -57,11 +57,14 @@
 
 
 #### Git commands-
-- git clone git@github.com:PythonSikho/MyFramework.git
+- To clone the project: `git clone git@github.com:PythonSikho/MyFramework.git`
 
-- git status
-- 
+- `git status`
+- `git add .`
+- `git commit -m "My firts code push"`
+- `git push origin main`
 
+- To have the latest code - `git pull`
 
 #### Jenkins Allure Support
 ##### Open Console/Command line --> Go to your Jenkins installation directory (very likely cd "C:\Program Files\Jenkins\"). 
